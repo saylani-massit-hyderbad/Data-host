@@ -11,7 +11,7 @@ function App(){
   return(
     <>
    <div>
-   <Card style={{ width: '18rem' }}>
+   {/* <Card style={{ width: '18rem' }}>
   <Card.Img variant="top" src="holder.js/100px180" />
   <Card.Body>
     <Card.Title>Card Title</Card.Title>
@@ -21,7 +21,7 @@ function App(){
     </Card.Text>
     <Button variant="primary">Go somewhere</Button>
   </Card.Body>
-</Card>
+</Card> */}
    <FcHome size='16'/></div> 
   
     <RiHome5Fill color='blue'/>
