@@ -1,9 +1,5 @@
 import { FcHome } from "react-icons/fc";
-
 import { RiHome5Fill } from "react-icons/ri";
-
-
-
 
 function App(){
 
