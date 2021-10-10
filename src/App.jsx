@@ -21,9 +21,10 @@ function App(){
    <FcHome size='16'/></div> 
   
     <RiHome5Fill color='blue'/>
-    <Button variant="contained" color="secondary">
-        Secondary
-      </Button>
+//     <Button variant="contained" color="secondary">
+//         Secondary
+//       </Button>
+    <h1>Hello</h1>
     <h1>hello</h1>
     </>
   )
